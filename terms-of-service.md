@@ -7,3 +7,5 @@ Users agree to let this app upload content on their behalf. No personal data is 
 This tool is for personal automation and prototyping purposes only.
 
 Not affiliated with TikTok.
+
+tiktok-developers-site-verification=A6D6vmGTtlyQmh8rjK5F3OlRAmtIVKsZ
